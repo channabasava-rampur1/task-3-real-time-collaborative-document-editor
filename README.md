@@ -220,8 +220,11 @@ Store `data` as the Quill Delta object (it is JSON serializable).
 ---
 <img width="1909" height="992" alt="Image" src="https://github.com/user-attachments/assets/b0c2d1a5-1bf7-48d9-bea6-77f51eb6bf7f" />
 
+
 <img width="1886" height="1044" alt="Image" src="https://github.com/user-attachments/assets/f7978d75-630b-4008-97e9-78cfbdcda777" />
 
+
 <img width="1858" height="1039" alt="Image" src="https://github.com/user-attachments/assets/29fd5a6d-0360-4400-a086-36d749815ee2" />
+
 
 <img width="1787" height="976" alt="Image" src="https://github.com/user-attachments/assets/dc5f35dc-b27e-47d2-8e40-171675bfcc20" />
